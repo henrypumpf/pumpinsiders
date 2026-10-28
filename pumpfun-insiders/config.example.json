@@ -1,0 +1,9 @@
+{
+  "program_id": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+  "cache_dir": "work/rpc-cache",
+  "early_slot_window": 20,
+  "max_pages": 20,
+  "funding_lookback_slots": 250000,
+  "funding_lookback_seconds": 86400,
+  "min_funding_lamports": 10000000
+}
